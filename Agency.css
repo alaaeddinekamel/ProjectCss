@@ -1,0 +1,109 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #212529;
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    color: wheat;
+}
+nav img{
+    width: 272px;
+    margin-left: 58px;
+    height: 100px;
+
+}
+
+.navLinks{
+    margin-right: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 540px;
+    
+}
+
+h1{
+    font-size: 36px;
+    color: #00327b;
+    font-family: fangsong;
+    font-weight: bolder;
+    margin-left: 33px;
+}
+
+h2{
+    font-size: 44px;
+    color: #0d6efd
+}
+h5{
+    font-size: 23px;
+    color: #b7cd3b;
+    font-weight: bold;
+}
+#Home img{
+    width: 100%;
+}
+
+#Home button{
+    background-color: #ff8000;
+    color: #fff;
+    border-style: none;
+    border-radius: 36px;
+    width: 152px;
+    height: 46px;
+    font-size: 22px;
+}
+#hero_section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-text{
+    height: 350px;
+}
+
+.card-img-top{
+    width: 287px;
+    height: 180px;
+}
+
+#Tours a{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    color: #0d6efd;
+}
+.tarek{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 98%;
+    margin-top: 18px;
+
+}
+
+
+.form-control{
+    width: 61%;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main{
+    margin-left: 30px;
+}
